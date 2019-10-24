@@ -1,0 +1,4 @@
+C:\Users\51663853819\Documents\Desafios da Programação C#\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Desafios da Programação C#\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Desafios da Programação C#\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Desafios da Programação C#\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.AssemblyInfo.cs
