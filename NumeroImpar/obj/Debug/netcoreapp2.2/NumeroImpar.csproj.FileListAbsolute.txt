@@ -1,0 +1,11 @@
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\bin\Debug\netcoreapp2.2\NumeroImpar.deps.json
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\bin\Debug\netcoreapp2.2\NumeroImpar.runtimeconfig.json
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\bin\Debug\netcoreapp2.2\NumeroImpar.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\bin\Debug\netcoreapp2.2\NumeroImpar.dll
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\bin\Debug\netcoreapp2.2\NumeroImpar.pdb
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\obj\Debug\netcoreapp2.2\NumeroImpar.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\obj\Debug\netcoreapp2.2\NumeroImpar.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\obj\Debug\netcoreapp2.2\NumeroImpar.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\obj\Debug\netcoreapp2.2\NumeroImpar.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\obj\Debug\netcoreapp2.2\NumeroImpar.dll
+C:\Users\51663853819\Documents\Desafios da Programação C#\7 - Numero Impar\obj\Debug\netcoreapp2.2\NumeroImpar.pdb
