@@ -1,0 +1,11 @@
+C:\Users\mateu\Documents\Desafios de Programação\Meses\obj\Debug\netcoreapp3.0\Meses.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Desafios de Programação\Meses\obj\Debug\netcoreapp3.0\Meses.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Desafios de Programação\Meses\obj\Debug\netcoreapp3.0\Meses.AssemblyInfo.cs
+C:\Users\mateu\Documents\Desafios de Programação\Meses\bin\Debug\netcoreapp3.0\Meses.exe
+C:\Users\mateu\Documents\Desafios de Programação\Meses\bin\Debug\netcoreapp3.0\Meses.deps.json
+C:\Users\mateu\Documents\Desafios de Programação\Meses\bin\Debug\netcoreapp3.0\Meses.runtimeconfig.json
+C:\Users\mateu\Documents\Desafios de Programação\Meses\bin\Debug\netcoreapp3.0\Meses.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Desafios de Programação\Meses\bin\Debug\netcoreapp3.0\Meses.dll
+C:\Users\mateu\Documents\Desafios de Programação\Meses\bin\Debug\netcoreapp3.0\Meses.pdb
+C:\Users\mateu\Documents\Desafios de Programação\Meses\obj\Debug\netcoreapp3.0\Meses.dll
+C:\Users\mateu\Documents\Desafios de Programação\Meses\obj\Debug\netcoreapp3.0\Meses.pdb
