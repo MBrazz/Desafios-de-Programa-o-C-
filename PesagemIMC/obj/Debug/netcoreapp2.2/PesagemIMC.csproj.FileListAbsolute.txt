@@ -9,3 +9,13 @@ C:\Users\51663853819\Documents\Desafios da Programação C#\PesagemIMC\obj\Debug
 C:\Users\51663853819\Documents\Desafios da Programação C#\PesagemIMC\obj\Debug\netcoreapp2.2\PesagemIMC.AssemblyInfo.cs
 C:\Users\51663853819\Documents\Desafios da Programação C#\PesagemIMC\obj\Debug\netcoreapp2.2\PesagemIMC.dll
 C:\Users\51663853819\Documents\Desafios da Programação C#\PesagemIMC\obj\Debug\netcoreapp2.2\PesagemIMC.pdb
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\bin\Debug\netcoreapp2.2\PesagemIMC.deps.json
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\bin\Debug\netcoreapp2.2\PesagemIMC.runtimeconfig.json
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\bin\Debug\netcoreapp2.2\PesagemIMC.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\bin\Debug\netcoreapp2.2\PesagemIMC.dll
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\bin\Debug\netcoreapp2.2\PesagemIMC.pdb
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\obj\Debug\netcoreapp2.2\PesagemIMC.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\obj\Debug\netcoreapp2.2\PesagemIMC.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\obj\Debug\netcoreapp2.2\PesagemIMC.AssemblyInfo.cs
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\obj\Debug\netcoreapp2.2\PesagemIMC.dll
+C:\Users\mateu\Documents\Desafios de Programação\PesagemIMC\obj\Debug\netcoreapp2.2\PesagemIMC.pdb

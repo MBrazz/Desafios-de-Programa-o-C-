@@ -6,9 +6,9 @@ namespace PesagemIMC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite o seu peso: ");
+            Console.Write("Digite o seu peso: ");
             double peso = double.Parse(System.Console.ReadLine());
-            System.Console.WriteLine("Digite a sua altura: ");
+            System.Console.Write("Digite a sua altura: ");
             double altura = double.Parse(System.Console.ReadLine());
 
             double imc = peso / (altura * altura);
