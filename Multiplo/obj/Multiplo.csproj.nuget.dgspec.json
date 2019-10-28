@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\51663853819\\Documents\\Desafios da Programação C#\\Multiplo\\Multiplo.csproj": {}
+    "C:\\Users\\51663853819\\Documents\\Desafios de Programação\\Multiplo\\Multiplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\51663853819\\Documents\\Desafios da Programação C#\\Multiplo\\Multiplo.csproj": {
+    "C:\\Users\\51663853819\\Documents\\Desafios de Programação\\Multiplo\\Multiplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\51663853819\\Documents\\Desafios da Programação C#\\Multiplo\\Multiplo.csproj",
+        "projectUniqueName": "C:\\Users\\51663853819\\Documents\\Desafios de Programação\\Multiplo\\Multiplo.csproj",
         "projectName": "Multiplo",
-        "projectPath": "C:\\Users\\51663853819\\Documents\\Desafios da Programação C#\\Multiplo\\Multiplo.csproj",
+        "projectPath": "C:\\Users\\51663853819\\Documents\\Desafios de Programação\\Multiplo\\Multiplo.csproj",
         "packagesPath": "C:\\Users\\51663853819\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\51663853819\\Documents\\Desafios da Programação C#\\Multiplo\\obj\\",
+        "outputPath": "C:\\Users\\51663853819\\Documents\\Desafios de Programação\\Multiplo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

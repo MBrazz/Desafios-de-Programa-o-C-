@@ -9,7 +9,7 @@ namespace Multiplo
             System.Console.WriteLine("Digite um número: ");
             int num = int.Parse(Console.ReadLine());
 
-            if (num / 3)
+            if (num % 3 == 0)
             {
                 System.Console.WriteLine("É Multiplo de 3");
             } else{

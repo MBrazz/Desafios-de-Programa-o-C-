@@ -30,3 +30,14 @@ C:\Users\mateu\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreap
 C:\Users\mateu\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreapp2.2\RetanCalc.AssemblyInfo.cs
 C:\Users\mateu\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreapp2.2\RetanCalc.dll
 C:\Users\mateu\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreapp2.2\RetanCalc.pdb
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\bin\Debug\netcoreapp2.2\RetanCalc.deps.json
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\bin\Debug\netcoreapp2.2\RetanCalc.runtimeconfig.json
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\bin\Debug\netcoreapp2.2\RetanCalc.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\bin\Debug\netcoreapp2.2\RetanCalc.dll
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\bin\Debug\netcoreapp2.2\RetanCalc.pdb
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreapp2.2\RetanCalc.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreapp2.2\RetanCalc.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreapp2.2\RetanCalc.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreapp2.2\RetanCalc.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreapp2.2\RetanCalc.dll
+C:\Users\51663853819\Documents\Desafios de Programação\RetanCalc\obj\Debug\netcoreapp2.2\RetanCalc.pdb

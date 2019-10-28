@@ -4,9 +4,9 @@ namespace ValorTrocado {
     class Program {
         static void Main (string[] args) {
             System.Console.Write ("Digite o 1º Valor A: ");
-            double A = int.Parse (Console.ReadLine ());
+            int A = int.Parse (Console.ReadLine ());
             System.Console.Write ("Digite o 2º Valor B: ");
-            double B = int.Parse (Console.ReadLine ());
+            int B = int.Parse (Console.ReadLine ());
 
             System.Console.WriteLine ();
 

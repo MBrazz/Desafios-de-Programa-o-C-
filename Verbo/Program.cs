@@ -8,6 +8,8 @@ namespace Verbo {
             bool Conj1 = verbo.EndsWith ("ar");
             bool Conj2 = verbo.EndsWith ("er");
             bool Conj3 = verbo.EndsWith ("ir");
+
+            
             if (Conj1) {
                 Console.WriteLine ("Verbo da 1° Conjugação. ");
             } else if (Conj2) {

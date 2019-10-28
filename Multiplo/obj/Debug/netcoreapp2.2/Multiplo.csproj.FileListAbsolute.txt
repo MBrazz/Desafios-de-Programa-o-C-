@@ -2,3 +2,14 @@ C:\Users\51663853819\Documents\Desafios da Programação C#\Multiplo\obj\Debug\n
 C:\Users\51663853819\Documents\Desafios da Programação C#\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.csproj.CoreCompileInputs.cache
 C:\Users\51663853819\Documents\Desafios da Programação C#\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.AssemblyInfoInputs.cache
 C:\Users\51663853819\Documents\Desafios da Programação C#\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\bin\Debug\netcoreapp2.2\Multiplo.deps.json
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\bin\Debug\netcoreapp2.2\Multiplo.runtimeconfig.json
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\bin\Debug\netcoreapp2.2\Multiplo.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\bin\Debug\netcoreapp2.2\Multiplo.dll
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\bin\Debug\netcoreapp2.2\Multiplo.pdb
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.dll
+C:\Users\51663853819\Documents\Desafios de Programação\Multiplo\obj\Debug\netcoreapp2.2\Multiplo.pdb

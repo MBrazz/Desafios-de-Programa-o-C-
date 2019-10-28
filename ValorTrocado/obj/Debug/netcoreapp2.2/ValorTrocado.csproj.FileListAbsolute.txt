@@ -20,3 +20,14 @@ C:\Users\51663853819\Documents\Desafios da Programação C#\5 - Valor Trocado\ob
 C:\Users\51663853819\Documents\Desafios da Programação C#\5 - Valor Trocado\obj\Debug\netcoreapp2.2\ValorTrocado.AssemblyInfo.cs
 C:\Users\51663853819\Documents\Desafios da Programação C#\5 - Valor Trocado\obj\Debug\netcoreapp2.2\ValorTrocado.dll
 C:\Users\51663853819\Documents\Desafios da Programação C#\5 - Valor Trocado\obj\Debug\netcoreapp2.2\ValorTrocado.pdb
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\bin\Debug\netcoreapp2.2\ValorTrocado.deps.json
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\bin\Debug\netcoreapp2.2\ValorTrocado.runtimeconfig.json
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\bin\Debug\netcoreapp2.2\ValorTrocado.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\bin\Debug\netcoreapp2.2\ValorTrocado.dll
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\bin\Debug\netcoreapp2.2\ValorTrocado.pdb
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\obj\Debug\netcoreapp2.2\ValorTrocado.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\obj\Debug\netcoreapp2.2\ValorTrocado.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\obj\Debug\netcoreapp2.2\ValorTrocado.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\obj\Debug\netcoreapp2.2\ValorTrocado.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\obj\Debug\netcoreapp2.2\ValorTrocado.dll
+C:\Users\51663853819\Documents\Desafios de Programação\ValorTrocado\obj\Debug\netcoreapp2.2\ValorTrocado.pdb

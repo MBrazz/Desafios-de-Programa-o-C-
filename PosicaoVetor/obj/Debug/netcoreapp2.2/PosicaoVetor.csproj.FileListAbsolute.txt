@@ -1,0 +1,11 @@
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\obj\Debug\netcoreapp2.2\PosicaoVetor.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\obj\Debug\netcoreapp2.2\PosicaoVetor.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\obj\Debug\netcoreapp2.2\PosicaoVetor.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\obj\Debug\netcoreapp2.2\PosicaoVetor.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\bin\Debug\netcoreapp2.2\PosicaoVetor.deps.json
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\bin\Debug\netcoreapp2.2\PosicaoVetor.runtimeconfig.json
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\bin\Debug\netcoreapp2.2\PosicaoVetor.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\bin\Debug\netcoreapp2.2\PosicaoVetor.dll
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\bin\Debug\netcoreapp2.2\PosicaoVetor.pdb
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\obj\Debug\netcoreapp2.2\PosicaoVetor.dll
+C:\Users\51663853819\Documents\Desafios de Programação\PosicaoVetor\obj\Debug\netcoreapp2.2\PosicaoVetor.pdb
