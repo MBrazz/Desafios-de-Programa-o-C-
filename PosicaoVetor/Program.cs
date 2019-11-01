@@ -1,22 +1,25 @@
 ﻿using System;
 
-namespace PosicaoVetor
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            int[] vetor = new int [100];
+namespace PosicaoVetor {
+        class Program {
+            static void Main (string[] args) {
+                int[] vetor = new int[6];
 
-            int cont = 0;
+                for (int cont = 0; cont <= 5; cont++) {
+                    Console.Write ($"Digite o {cont+1}º número: ");
+                    vetor[cont] = int.Parse (Console.ReadLine ());
+                }
 
-            do{
-            for(; cont < 100; cont++){
-            Console.Write($"Digite o {cont+1}º número: ");
-            vetor[cont] = int.Parse(Console.ReadLine());
-            } 
-            }while (cont != 0);
-        
+                foreach (int num in vetor) {
+                    if (num >= 0) {
+                        System.Console.WriteLine(" " + num);
+                    } else {
+                        System.Console.WriteLine("Número ínvalido");
+                    }
+                }
+
+                
+
+            }
         }
     }
-}

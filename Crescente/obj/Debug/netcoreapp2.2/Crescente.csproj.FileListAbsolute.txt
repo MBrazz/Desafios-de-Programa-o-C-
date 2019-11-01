@@ -9,3 +9,14 @@ C:\Users\51663853819\Documents\Desafios da Programação C#\Crescente\bin\Debug\
 C:\Users\51663853819\Documents\Desafios da Programação C#\Crescente\bin\Debug\netcoreapp2.2\Crescente.pdb
 C:\Users\51663853819\Documents\Desafios da Programação C#\Crescente\obj\Debug\netcoreapp2.2\Crescente.dll
 C:\Users\51663853819\Documents\Desafios da Programação C#\Crescente\obj\Debug\netcoreapp2.2\Crescente.pdb
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\bin\Debug\netcoreapp2.2\Crescente.deps.json
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\bin\Debug\netcoreapp2.2\Crescente.runtimeconfig.json
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\bin\Debug\netcoreapp2.2\Crescente.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\bin\Debug\netcoreapp2.2\Crescente.dll
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\bin\Debug\netcoreapp2.2\Crescente.pdb
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\obj\Debug\netcoreapp2.2\Crescente.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\obj\Debug\netcoreapp2.2\Crescente.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\obj\Debug\netcoreapp2.2\Crescente.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\obj\Debug\netcoreapp2.2\Crescente.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\obj\Debug\netcoreapp2.2\Crescente.dll
+C:\Users\51663853819\Documents\Desafios de Programação\Crescente\obj\Debug\netcoreapp2.2\Crescente.pdb

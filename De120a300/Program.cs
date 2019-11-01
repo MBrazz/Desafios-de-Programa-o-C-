@@ -7,7 +7,7 @@ namespace De120a300
         static void Main(string[] args)
         {
             for (int i = 120; i <= 300; i ++ ){
-                Console.Write(i + " ");
+                Console.Write(i + "  ");
             }
         }
     }

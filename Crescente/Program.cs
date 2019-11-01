@@ -28,9 +28,9 @@ namespace Crescente
             {
                System.Console.WriteLine($"Ordem Crescente: {num1} {num3} {num2}");
             }
-            else if (num1 > num2 && num1 > num3)
+            else if (num1 > num2 && num1 < num3)
             {
-                System.Console.WriteLine($"Ordem Crescente: {num3} {num2} {num2}");
+                System.Console.WriteLine($"Ordem Crescente: {num2} {num1} {num3}");
             }
             else if (num3 > num2 && num2 > num1)
             {
